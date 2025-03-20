@@ -1,0 +1,188 @@
+[
+    {
+        "filter_id":1,
+        "products":[{
+            "product_id":1,
+            "product_name":"Vaccum Cleaner",
+            "imgSrc":"images/vacuum-cleaner.avif",
+            "price":6000
+
+                    },
+                
+                {
+            "product_id":2,
+            "product_name":"Washin Machine",
+            "imgSrc":"images/washin.jpg",
+            "price":40000
+
+                },
+                {
+                    
+                        "product_id":3,
+                        "product_name":"Water Heater",
+                        "imgSrc":"images/heater.jpg",
+                        "price":20000 
+                },
+                {
+                  
+                        "product_id":4,
+                        "product_name":"Refrigertor",
+                        "imgSrc":"images/refrigerator.jpg",
+                        "price":80000   
+                },
+                { 
+                    "product_id":5,
+                    "product_name":"Television",
+                    "imgSrc":"images/tv.jpg",
+                    "price":30000   
+
+                },
+                {
+                    
+                    "product_id":6,
+                    "product_name":"Electric Stove",
+                    "imgSrc":"images/stove.jpg",
+                    "price":50000   
+                } ]
+    },
+    {
+"filter_id":2,
+        "products":[{
+            "product_id":7,
+            "product_name":"Suit",
+            "imgSrc":"images/suit.jpg",
+            "price":10000
+
+                    },
+                
+                {
+            "product_id":8,
+            "product_name":"Wallet",
+            "imgSrc":"images/wallet.jpg",
+            "price":500
+
+                },
+                {
+                    
+                        "product_id":9,
+                        "product_name":"Watch",
+                        "imgSrc":"images/watch.jpg",
+                        "price":20000 
+                },
+                {
+                  
+                        "product_id":10,
+                        "product_name":"Shoe",
+                        "imgSrc":"images/shoe.jpg",
+                        "price":8000   
+                },
+                { 
+                    "product_id":11,
+                    "product_name":"Pant",
+                    "imgSrc":"images/pants.jpg",
+                    "price":1500   
+
+                },
+                {
+                    
+                    "product_id":12,
+                    "product_name":"Belt",
+                    "imgSrc":"images/belt.jpg",
+                    "price":600   
+                } ]
+    },
+    {
+"filter_id":4,
+        "products":[{
+            "product_id":13,
+            "product_name":"Lipstick",
+            "imgSrc":"images/lipstick.jpg",
+            "price":800
+
+                    },
+                
+                {
+            "product_id":14,
+            "product_name":"HeelShoe",
+            "imgSrc":"images/heelshoe.jpg",
+            "price":1000
+
+                },
+                {
+                    
+                        "product_id":15,
+                        "product_name":"HandBag",
+                        "imgSrc":"images/handbag.jpg",
+                        "price":2000 
+                },
+                {
+                  
+                        "product_id":16,
+                        "product_name":"Skincare",
+                        "imgSrc":"images/skincare.jpg",
+                        "price":10000   
+                },
+                { 
+                    "product_id":17,
+                    "product_name":"Kurti",
+                    "imgSrc":"images/womenkurti.jpg",
+                    "price":1800   
+
+                },
+                {
+                    
+                    "product_id":18,
+                    "product_name":"Earring",
+                    "imgSrc":"images/earring.jpg",
+                    "price":600   
+                } ]
+    },
+    {
+"filter_id":5,
+        "products":[{
+            "product_id":19,
+            "product_name":"Biryani",
+            "imgSrc":"images/biryni.jpg",
+            "price":200
+
+                    },
+                
+                {
+            "product_id":20,
+            "product_name":"Shawarma",
+            "imgSrc":"images/shawarma.jpg",
+            "price":100
+
+                },
+                {
+                    
+                        "product_id":21,
+                        "product_name":"Parotta",
+                        "imgSrc":"images/parotta.jpg",
+                        "price":80
+                },
+                {
+                  
+                        "product_id":22,
+                        "product_name":"Chicken",
+                        "imgSrc":"images/bbqchickenwings.jpg",
+                        "price":350   
+                },
+                { 
+                    "product_id":17,
+                    "product_name":"Kurti",
+                    "imgSrc":"images/womenkurti.jpg",
+                    "price":1800   
+
+                },
+                {
+                    
+                    "product_id":18,
+                    "product_name":"Earring",
+                    "imgSrc":"images/earring.jpg",
+                    "price":600   
+                } ]
+                
+    }
+]
+

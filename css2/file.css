@@ -1,0 +1,75 @@
+
+  body
+  {
+    background-image:url("watercolor.jpg");
+    background-repeat:repeat;
+    background-attachment: fixed;
+  } 
+ 
+.rel
+{
+  position: relative;
+    width: 980px;
+    height:250px;
+    margin: 10px auto auto auto;
+    padding: 0px;
+    background-image:linear-gradient(25deg,red 30%,orange 60%,yellow 90%,white 100%);
+    border: 2px solid black;
+    justify-content: center;
+   
+}
+.abs
+{
+  position:absolute;
+  text-align: right;
+  width: 160px;
+  height: 160px;
+  top: 60px;
+  left: 920px;
+  background-image:repeating-conic-gradient(rgb(0, 128, 58) 5%,rgb(127, 255, 255)10%,rgb(255, 255, 255)15%) ;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 50%;
+  animation-duration: 2s;
+}
+
+     
+.navbar
+{
+    width: 980px;
+    height: 50px;
+    margin: auto;
+    padding: 0px;
+    border-width: 0px 2px 2px 2px;
+    border-style: solid;
+    border-color: black;
+    justify-content: center;
+    
+}
+.middle
+{
+  width: 980px;
+    height: 500px;
+    margin: auto;
+    padding: 0px;
+    border-width: 0px 2px 2px 2px;
+    border-style: solid;
+    border-color: black;
+    justify-content: center;
+    background-color:burlywood;
+    
+}
+.down
+{
+  width: 980px;
+    height: 50px;
+    margin: auto;
+    padding: 0px;
+    border-width: 0px 2px 2px 2px;
+    border-style: solid;
+    border-color: black;
+    justify-content: center;
+    background-color:aquamarine;
+    text-align: right;
+   
+}
